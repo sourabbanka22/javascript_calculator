@@ -1,0 +1,22 @@
+.buttonc {
+    width: 74.25%;
+    background: #e90c0c;
+    color: #fff;
+    padding: 20px;
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 0.5px;
+    margin-left: 0.5px;
+    border-right: solid 2px #3C4857;
+    border-bottom: solid 2px #3C4857;
+    transition: all 0.2s ease-in-out;
+  }
+  
+
+  .buttonc:hover {
+    background: #E0B612;
+    transform: rotate(5deg);
+  }
+  

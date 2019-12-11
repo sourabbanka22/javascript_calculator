@@ -1,0 +1,13 @@
+.screen {
+    background: #3A4655;
+    width: 100%;
+    height: 150px;
+    padding: 20px;
+}
+
+.currentValue {
+    margin-top: 20px;
+    font-size: 45px;
+    text-align: right;
+    color: #fff;
+}
